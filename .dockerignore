@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+*.log
+*.csv
+*.md
+*.lock
+.env
+.git
+.DS_Store
